@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "649ada3b9d8ba21964692c12"
+  },
+  "email": "test1@gmail.com",
+  "password": "$2b$10$Btw5oymcgOs.EQWpIhU5YOZgoo11PpMZh/Y.P022TnMyeEQVqj7RS",
+  "mobile": {
+    "$numberLong": "8562413251"
+  },
+  "name": "het",
+  "address": "gfntrd hfrtgh rthrthgy ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649bbd556912030fe0627e0c"
+  },
+  "email": "test2@gmail.com",
+  "password": "$2b$10$mUtq.5VL8Mr3Zjw0WzWqsuTFmlH6fAIMz9jHa2rPpPeWuIZO5oENy",
+  "mobile": {
+    "$numberLong": "5418974151"
+  },
+  "name": "ankit",
+  "address": "dsfc werf gtrfgv gerg",
+  "__v": 0
+}]
